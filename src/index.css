@@ -1,0 +1,60 @@
+/* ----------------------------------------------- */
+/* Reused variables */
+/* ----------------------------------------------- */
+
+/*
+COLOR INFO
+
+primary: #5c7cfa
+danger: #e74c3c
+warning: #f39c12
+success: #2ecc71
+white: #fff
+*/
+
+/* ----------------------------------------------- */
+/* BASIC SETUP */
+/* ----------------------------------------------- */
+
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  background-color: #fff;
+  font-size: 18px;
+  font-family: 'Lato', 'Arial', sans-serif;
+  font-weight: 300;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+
+/* ----------------------------------------------- */
+/* REUSABLE COMPONENTS */
+/* ----------------------------------------------- */
+
+h1,
+h2,
+h3 {
+  font-weight: 300
+}
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-size: 300%;
+  word-spacing: 4px;
+  letter-spacing: 1px;
+}
+
+.lead-text {
+  font-size: 120%;
+}
+
+/* ----------------------------------------------- */
+/* HOME */
+/* ----------------------------------------------- */

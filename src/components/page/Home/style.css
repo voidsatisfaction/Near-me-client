@@ -1,0 +1,23 @@
+.home-container {
+  width: 100vw;
+  height: 100vh;
+}
+
+.home-main {
+  height: 75%;
+}
+
+.googlemap-container {
+  margin: 10px 10px
+}
+
+.title-text {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.sub-title {
+  padding: 1rem;
+  font-size: 120%;
+  min-height: 110px;
+}
